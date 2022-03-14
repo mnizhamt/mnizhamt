@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nizham
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning vuejs and feathersjs
+- 🌱 I’m currently learning vuejs and feathersjs, but get used to Java and Python environment
 - 💞️ I’m looking to collaborate on any software development
 - 📫 You can send email to nizhamt@outlook.com to reach me
 
